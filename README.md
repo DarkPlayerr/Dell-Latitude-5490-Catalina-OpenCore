@@ -1,6 +1,5 @@
 # DELL Latitude 5490 : Configuration OpenCore
 
-First Header | Second Header
+Mac OS Version | What Works
 ------------ | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+Catalina 10.15.7 | Everything except the tiny mousepad
