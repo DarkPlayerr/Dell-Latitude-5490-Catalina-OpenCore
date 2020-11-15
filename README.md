@@ -1,5 +1,5 @@
 
-# DELL Latitude 5490 : Configuration OpenCore
+# DELL Latitude 5490 : OpenCore EFI's
 
 ## OpenCore configurations for Dell Latitude 5490 (some other models may work)
 
